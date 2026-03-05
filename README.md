@@ -1,2 +1,51 @@
 # Sales-performance-excel-dashboard
 Sales performance and Discount impact analysis using Advanced Excel Dashboards.
+
+# Sales Performance & Discount Impact Analysis (Advanced Excel)
+
+## Project Overview
+This project analyzes a retail Superstore dataset to understand sales performance and the impact of discount levels on profitability. The analysis was performed using Microsoft Excel with Pivot Tables, Pivot Charts, and interactive dashboards.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning Techniques
+
+## Dataset
+The dataset used is the Sample Superstore dataset which contains order-level information including sales, profit, discount, region, category, and customer segment.
+
+## Data Cleaning
+The following cleaning steps were performed:
+- Checked for missing values using Go To Special (Ctrl + G)
+- Replaced missing postal codes with 0
+- Verified consistency of categorical fields
+- Hid unnecessary sheets (People and Returns)
+
+## Dashboards Created
+
+### 1. Sales Performance Dashboard
+This dashboard analyzes:
+- Total Sales
+- Total Profit
+- Profit Margin
+- Total Orders
+- Sales by Segment
+- Sales and Profit by Category
+- Sales and Profit by Region
+
+### 2. Discount Impact Dashboard
+This dashboard analyzes:
+- Profit margin across different discount bands
+- Category-level discount impact
+- Profit margin by region
+
+## Key Insights
+- High discount levels significantly reduce profit margins.
+- Technology category generates the highest profit margin.
+- West region shows the highest profitability.
+- Low discount ranges (0–20%) maintain healthy profit margins.
+
+## Author
+Pushpalatha
