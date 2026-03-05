@@ -23,6 +23,17 @@ The following cleaning steps were performed:
 - Verified consistency of categorical fields
 - Hid unnecessary sheets (People and Returns)
 
+  ## How to View the Dashboard
+
+GitHub cannot preview Excel dashboard files directly.
+
+To view the dashboards:
+1. Download the Excel file from this repository.
+2. Open the file in Microsoft Excel.
+3. Navigate to the following sheets:
+   - Sales Performance Dashboard
+   - Discount Impact Dashboard
+
 ## Dashboards Created
 
 ### 1. Sales Performance Dashboard
