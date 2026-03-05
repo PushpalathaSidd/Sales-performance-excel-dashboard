@@ -26,16 +26,24 @@ The following cleaning steps were performed:
 ## Dashboards Created
 
 ### 1. Sales Performance Dashboard
+
+<img width="923" height="357" alt="Sales_performance_dashboadr" src="https://github.com/user-attachments/assets/6ffb2ab1-1233-458b-86a2-8474dc9a28b4" />
+
 This dashboard analyzes:
 - Total Sales
 - Total Profit
 - Profit Margin
+
 - Total Orders
 - Sales by Segment
 - Sales and Profit by Category
 - Sales and Profit by Region
 
 ### 2. Discount Impact Dashboard
+
+<img width="909" height="383" alt="Impact_of _discount_dashboard" src="https://github.com/user-attachments/assets/ff403d1d-4188-4e9a-bfa7-72fab2dc976f" />
+
+
 This dashboard analyzes:
 - Profit margin across different discount bands
 - Category-level discount impact
